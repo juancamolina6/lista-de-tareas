@@ -1,0 +1,17 @@
+# Archivos de configuración locales
+.env
+
+# Directorio de archivos estáticos generados
+/static
+
+# Directorio de archivos temporales
+/tmp
+
+# Directorio de archivos de caché
+__pycache__
+
+# Archivos de registro
+*.log
+
+# Entorno virtual (si se usa)
+env/
